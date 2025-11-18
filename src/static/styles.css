@@ -92,13 +92,6 @@ section h3 {
   padding-left: 0;
 }
 
-.participants-list li {
-  display: flex;
-  align-items: center;
-  margin-bottom: 5px;
-  padding: 2px 0;
-}
-
 .participant-email {
   flex: 1;
 }
